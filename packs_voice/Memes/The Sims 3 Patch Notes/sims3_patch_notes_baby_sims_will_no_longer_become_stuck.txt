@@ -1,0 +1,1 @@
+Baby Sims will no longer become stuck on a Sim's hand while driving a car.

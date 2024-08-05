@@ -1,0 +1,17 @@
+{
+	"audio_assignment": {
+		"game_loser": "talk_lose",
+		"game_winner": "talk_win",
+		"intro_greet": "talk_greet",
+		"score_0": "talk_upset",
+		"score_1": "talk_upset",
+		"score_2": "talk_score3",
+		"score_3": "talk_score3",
+		"score_4": "talk_score4",
+		"score_5": "talk_cheer"
+	},
+	"color1": "147bb4",
+	"color2": "efce04",
+	"introduction": "Feline mascot of TunnelSnakes,",
+	"name": "Morgana"
+}

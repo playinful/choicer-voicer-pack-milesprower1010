@@ -1,0 +1,17 @@
+{
+	"audio_assignment": {
+		"game_loser": "talk_lose",
+		"game_winner": "talk_win",
+		"intro_greet": "talk_greet",
+		"score_0": "talk_score0",
+		"score_1": "talk_score1",
+		"score_2": "talk_score3",
+		"score_3": "talk_score3",
+		"score_4": "talk_score4",
+		"score_5": "talk_score5"
+	},
+	"color1": "cc0101",
+	"color2": "ffffff",
+	"introduction": "The best voicer in the land:",
+	"name": "Homestar Runner"
+}

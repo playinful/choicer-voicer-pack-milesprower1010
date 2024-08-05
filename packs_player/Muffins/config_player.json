@@ -1,0 +1,17 @@
+{
+	"audio_assignment": {
+		"game_loser": "talk_upset",
+		"game_winner": "talk_cheer",
+		"intro_greet": "talk_greet",
+		"score_0": "talk_upset",
+		"score_1": "talk_upset",
+		"score_2": "",
+		"score_3": "",
+		"score_4": "talk_cheer",
+		"score_5": "talk_cheer"
+	},
+	"color1": "a59e89",
+	"color2": "ffffff",
+	"introduction": "The professional noisemaker,",
+	"name": "Muffins"
+}

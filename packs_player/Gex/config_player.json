@@ -1,0 +1,17 @@
+{
+	"audio_assignment": {
+		"game_loser": "talk_lose",
+		"game_winner": "talk_score5",
+		"intro_greet": "talk_greet",
+		"score_0": "talk_score0",
+		"score_1": "talk_score1",
+		"score_2": "talk_score2",
+		"score_3": "",
+		"score_4": "talk_score4",
+		"score_5": "talk_score5"
+	},
+	"color1": "76a630",
+	"color2": "e0d12d",
+	"introduction": "The wisecracking gecko who simply won't shut up:",
+	"name": "Gex"
+}

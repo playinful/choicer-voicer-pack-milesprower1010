@@ -1,0 +1,3 @@
+
+A meteor can hit a building, in which case everyone will run out before the collision. Those who do not exit the building will die.
+Sims automatically leave if a meteor is approaching, unless it is a school, in which children are not allowed to leave and will always die.
